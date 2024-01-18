@@ -15,6 +15,8 @@ go build -o killp main.go process.go
 
 This will generate an executable named `killp` in the current directory.
 
+You can find the pre-built binaries on the [Releases overview](https://github.com/anthonyringoet/killp/releases).
+
 ## Running
 
 To run the killp tool without building, use the following command:
